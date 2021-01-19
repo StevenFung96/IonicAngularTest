@@ -1,6 +1,8 @@
 {
   "name": "IonicAngularTestApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "74fb3d34"
 }
